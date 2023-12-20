@@ -1,5 +1,6 @@
 package basic.compare;
 
+//equals() method:compare value of the string/compare original content of the string/ret t/f
 public class EqualsMethod {
 public static void main(String[] args) {
 	String ab1 = "Abhishek";
