@@ -8,6 +8,8 @@ public static void main(String[] args) {
 	StringJoiner a = new StringJoiner(" ");
 	a.add("Abhishek");
 	a.add("Aryan");
+	a.add("From");
+	a.add("Bettiah");
 	System.out.println(a.toString());
 	
 }
